@@ -4,7 +4,7 @@
 
 This script is designed to help you sort through a directory of images and videos, identifying potentially NSFW content and moving it to a separate folder. It uses the OpenNSFW2 library to analyze images and videos, predicting the likelihood that they contain NSFW content.
 
-Here's how it works: The script first sets up the necessary directories and logging configuration. It then scans the target directory and its subdirectories for files with specific extensions (like .jpg, .png, .mp4, etc.). For each file, it calculates the NSFW probability and logs the result. If the probability exceeds a certain threshold, the file is moved to a "high_prob_nsfw" directory.
+Here's how it works: The script first sets up the necessary directories and logging configuration. It then scans the target directory and its subdirectories for files with specific extensions (like .jpg, .png, .mp4, etc.). For each file, it calculates the NSFW probability using the neural model you can find in the repo (.h5) and logs the result. If the probability exceeds a certain threshold, the file is moved to a "high_prob_nsfw" directory.
 
 To ensure smooth operation, the script processes files in parallel using a thread pool, which speeds up the sorting process. It also keeps track of which files have already been processed to avoid redundant work. Safety measures are built in to handle errors gracefully, such as skipping non-image files, handling corrupted files, and verifying successful file moves.
 
